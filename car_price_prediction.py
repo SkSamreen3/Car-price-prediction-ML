@@ -135,7 +135,7 @@ joblib.dump(model, 'random_forest_model.pkl')
 #         st.pyplot(fig)
 #
 
-!ngrok config add-authtoken 30gP3R7Xyj2X4QY0xEs5D5MWocN_KgdE11cNbCPriMRrP55N
+!ngrok config add-authtoken PASTE YOUR TOKEN
 
 from pyngrok import ngrok
 
